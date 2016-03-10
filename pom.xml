@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.CM.auto</groupId>
-	<artifactId>basic-auto-project</artifactId>
+	<artifactId>coloful-exceptions-project</artifactId>
 	<version>1.0 SNAPSHOT</version>
-	<name>Basic Automation Project</name>
+	<name>Colorful Exceptions Project</name>
 	<description>Basic Java Selenium Automation Project</description>
 	<dependencies>
 		<dependency>
